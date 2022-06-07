@@ -33,13 +33,13 @@ body, html {
 }
 
 .bgimg-4 {
-  background-image: url('../img/alfa_pics/bgmain.jpg');
-  min-height: 100%;
+  background-image: url('../img/alfa_pics/collaborativework.jpg');
+  min-height: 400px;
 }
 
 .bgimg-5 {
-  background-image: url('../img/alfa_pics/bgmain.jpg');
-  min-height: 100%;
+  background-image: url('../img/TA_Stuffs/Pfsensesetup.png');
+  min-height: 400px;
 }
 
 .w3-wide {letter-spacing: 10px;}
